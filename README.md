@@ -26,9 +26,7 @@ $ ls
 $ chmod +x *
 $ python2 RedTool.py
  
-   Or
-
-$ python2 RedTool.py
+ 
 
  Tool Installation successful
 
