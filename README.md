@@ -16,7 +16,7 @@ $ git clone https://github.com/RedHackkErR/FbCracker.git
 $ cd FbCracker
 $ ls
 $ chmod +x *
-$ python RedTool.py
+$ python2 RedTool.py
  
    Or
 
